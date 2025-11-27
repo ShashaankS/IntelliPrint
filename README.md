@@ -1,1 +1,1 @@
-# Automatic-Part-Removal-for-3D-Printer
+# IntelliPrint
